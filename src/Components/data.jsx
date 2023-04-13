@@ -6,7 +6,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/kqbXiAR3YgpVMmEY7",
         startDate: "27 May, 2021",
         endDate: "8 Jun, 2021",
-        description: "Aburi Botanical Gardens is a garden in Aburi in Eastern region of Ghana The garden occupies an area of 64.8 hectares. It was opened in March, 1890 and was founded by Governor William Brandford-Griffith and Dr John Farrell Easmon, a Sierra Leonean medical doctor.Tranquil setting for walks, picnics & exercise amid rare trees & plants, including tall palms.",
+        description: "Aburi Botanical Gardens is a garden in Aburi in Eastern region of Ghana The garden occupies an area of 64.8 hectares. Tranquil setting for walks, picnics & exercise amid rare trees & plants, including tall palms.",
         imageUrl: "https://images.unsplash.com/photo-1653856453395-d8d188581e9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWJ1cmklMjBib3RhbmljYWwlMjBnYXJkZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
